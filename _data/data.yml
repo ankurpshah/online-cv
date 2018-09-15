@@ -7,193 +7,132 @@ sidebar:
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
-    name: Alan Doe
-    tagline: Full Stack Developer
-    avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+    name: Ankur Shah
+    tagline: Solution Architect, DevOps
+    avatar: ankur.jpg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: hello@webjeda.com
-    phone: 012 345 6789
-    website: blog.webjeda.com #do not add http://
-    linkedin: alandoe
-    github: sharu725
-    gitlab:
+    email: ankur@ankurpshah.com
+    phone: 01 848 248 6176
+    website: www.ankurpshah.com #do not add http://
+    linkedin: ankurpshah
+    github: ankurpshah
+    gitlab: ankurpshah
     bitbucket:
-    twitter: '@webjeda'
-    stack-overflow: # Number/Username, e.g. 123456/alandoe
+    twitter: '@ankurpshah'
+    stack-overflow: 87582/silent-warrior # Number/Username, e.g. 123456/alandoe
     codewars:
 
     languages:
       - idiom: English
+        level: Professional
+
+      - idiom: Gujarati
         level: Native
 
-      - idiom: French
-        level: Professional
-
-      - idiom: Spanish
-        level: Professional
+      - idiom: Hindi
+        level: Native
         
     interests:
-      - item: Climbing
+      - item: Rubik's Cube
         link:
 
-      - item: Snowboarding
+      - item: Chess
         link:
 
-      - item: Cooking
+      - item: Vedic Mathematics
         link:
 
 career-profile:
     title: Career Profile
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
+      Architect/DevOps, Unix lover, Security Enthusiast, Firmly Automation Believer.
 
-      Second paragraph if required.
+      Successful background working with stakeholders to develop architecture
+      framework that aligns strategy, processes, and IT assets with business goals.
+      Dedicated to optimization experienced DevOps Engineer understands the melding
+      of operations and development to quickly deliver code to customers.
 
 education:
-    - degree: MSc in Computer Science
-      university: University of London
-      time: 2011 - 2012
+    - degree: Masters in Computer Applications
+      university: South Gujarat University
+      time: 2000 - 2003
       details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
+        Majoring in Computer Applications
 
-          - Bullet point
-          - Bullet point 
-
-    - degree: BSc in Applied Mathematics
-      university: Bristol University
-      time: 2007 - 2011
+    - degree: Bachelor of Engineering
+      university: South Gujarat University
+      time: 1996 - 2000
       details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-
-          - Bullet point
-          - Bullet point 
+        Majoring in Electrical Engineering
 
 experiences:
-    - role: Lead Developer
-      time: 2015 - Present
-      company: Startup Hubs, San Francisco
+    - role: Principal Site Reliability Engineer
+      time: 2017 - Now
+      company: Prognos AI, New York
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-        enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-        error sit voluptatem accusantium doloremque laudantium, totam rem
-        aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-        architecto beatae vitae dicta sunt explicabo.
+        - Provide architectural and practical guidance to software development to improve resiliency, efficiency, performance, and costs
+        - Monitor and report on service level objectives for a given applications services. Work with business and product owners to establish key performance indicators
+        - Capacity planning and management – create, use, maintain a capacity model for on-prem and AWS hosting, based on E2E user flow profiles
+        - Work with product operations team to resolve trouble tickets, developing and running scripts, and troubleshooting services in a hosted environment
+        - Working knowledge of virtualized environments; VM management and provisioning
+        - Provide technical insight on development projects
+        - Assist with testing and validating production applications
 
-          - Bullet point
-          - Bullet point 
-
-    - role: Senior Software Engineer
-      time: 2014 - 2015
-      company: Google, London
+    - role: Solution Architect / DevOps
+      time: 2011 - 2017
+      company: Ishi Systems Inc., New Jersey
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
+          - Assisted in converting all legacy monolithic projects to modern microservice based projects.
+          - Assisted team to implement automated testing and performance testing.
+          - Implemented CI and CD company-wide.
+          - Implemented Security Compliance as Code using Inspec. Implemented Web security testing using OWASP ZAP.
+          - Implemented various DevOps best practices using Docker, Vagrant, Puppet, Ansible, Chef, Jenkins, AWS, Spacewalk, Ambari etc.
+          - Implemented BDD using Cucumber for various projects.
+          - Focused on automation integration monitoring and configuration management.
+          - Streamlined applications delivery to get applications out to customers faster.
+          - Worked within the Cloud for integration processes
 
-          - Bullet point
-          - Bullet point
-
-    - role: UI Developer
-      time: 2012 - 2014
-      company: Amazon, London
+    - role: Software Specialist
+      time: 2006 - 2011
+      company: SAS R & D, India
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
+          - Designed and Architect various product in Business Intelligence domain.
+          - Introduced and implemented TDD approach within a project. Implemented Front End UI using Flex and related (pure MVC, BlazeDS etc.) technologies.
+          - Designed and developed the backend for the product using various Java and J2EE related toolset like (Maven, Hibernate, Spring etc.)
 
-          - Bullet point
-          - Bullet point
-
-projects:
-    title: Projects
-    intro: >
-      You can list your side projects or open source libraries in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
-
-    assignments:
-      - title: Velocity
-        link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
-
-      - title: DevStudio
-        link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
-
-      - title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
-
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
-
-publications:
-    title: Publications
-    intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
-
-    papers:
-      - title: The Art of Computer Programming
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
-
-      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
-
-      - title: A syntax directed compiler for Algol 60
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
+    - role: Software Engineer
+      time: 2003 - 2006
+      company: Roamware India pvt. Ltd., India
+      details: |
+          - Implemented various products in Telecom VAS (Value Added Service) domain.
+          - Developed various products using SS7 protocol. Implemented build system using Ant.
+          - Implemented Static code Analyzer for checking code quality.
 
 skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Python & Django
+      - name: Java/J2EE
         level: 98%
 
-      - name: Javascript & jQuery
-        level: 98%
+      - name: Python
+        level: 70%
 
-      - name: Angular
-        level: 98%
+      - name: Cloud computing (AWS, GCP)
+        level: 88%
 
-      - name: HTML5 & CSS
-        level: 95%
+      - name: Configuration Management (Ansible, Chef)
+        level: 90%
 
-      - name: Ruby on Rails
-        level: 85%
+      - name: Infrastructor provisioning (Terraform, Vault, Packer)
+        level: 90%
 
-      - name: Sketch & Photoshop
-        level: 60%
+      - name: Continous Integration (Jenkins, CircleCI)
+        level: 90%
+
+      - name: Security & Hardening (Inspec, Cloud Custodian, Scout2)
+        level: 80%
 
 footer: >
-    Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
+    2018 @ ANKUR SHAH
